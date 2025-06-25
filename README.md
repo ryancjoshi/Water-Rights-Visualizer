@@ -14,7 +14,7 @@ Zoe von Allmen, Chapman University
 
 * Ryan Joshi, Chapman University
 
-* Unofficial credits. I think that Ryan S and I have done enough work on the Water Rights Visualizer that we deserve to have our names added here. 
+* Names after bullet points are unofficial credits. I think that Ryan S and I have done enough work on the Water Rights Visualizer that we deserve to have our names added here. -Ryan J
 
 This repository contains the code for the ET Toolbox 7-day hindcast and 7-day forecast data production system.
 
