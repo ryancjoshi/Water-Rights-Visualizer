@@ -2,6 +2,8 @@
 
 Gregory Halverson, Jet Propulsion Laboratory, [gregory.h.halverson@jpl.nasa.gov](mailto:gregory.h.halverson@jpl.nasa.gov)
 
+* Ryan Stonebraker, Jet Propulsion Laboratory
+
 Mony Sea, California State University Northridge
 
 Holland Hatch, Chapman University
@@ -9,6 +11,10 @@ Holland Hatch, Chapman University
 Annalise Jensen, Chapman University
 
 Zoe von Allmen, Chapman University
+
+* Ryan Joshi, Chapman University
+
+* Unofficial credits. I think that Ryan S and I have done enough work on the Water Rights Visualizer that we deserve to have our names added here. 
 
 This repository contains the code for the ET Toolbox 7-day hindcast and 7-day forecast data production system.
 
